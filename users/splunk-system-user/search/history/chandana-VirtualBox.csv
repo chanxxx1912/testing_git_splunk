@@ -1,0 +1,5 @@
+sid,search,"splunk_server","_time","is_realtime","__mv_sid","__mv_search","__mv_splunk_server","__mv__time","__mv_is_realtime"
+"1658237400.17","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658237400.870299",0,,,,,
+"1658237400.18","| rest splunk_server=local services/server/info","chandana-VirtualBox","1658237400.880482",0,,,,,
+"1658237400.19","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658237400.935845",0,,,,,
+"1658237400.20","| rest services/server/info | sort splunk_server","chandana-VirtualBox","1658237400.938213",0,,,,,
