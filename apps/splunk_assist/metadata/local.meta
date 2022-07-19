@@ -5,3 +5,11 @@ modtime = 1658236139.861585000
 [assist/ui]
 version = 9.0.0
 modtime = 1658236141.337946000
+
+[assist/updates]
+version = 9.0.0
+modtime = 1658236399.135199000
+
+[assist/supervisor]
+version = 9.0.0
+modtime = 1658236399.142885000
