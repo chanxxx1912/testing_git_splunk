@@ -42,3 +42,8 @@ modtime = 1658236116.086224000
 owner = nobody
 version = 9.0.0
 modtime = 1658236754.432723000
+
+[props/splunk_archiver-too_small]
+owner = nobody
+version = 9.0.0
+modtime = 1658238421.004398000
